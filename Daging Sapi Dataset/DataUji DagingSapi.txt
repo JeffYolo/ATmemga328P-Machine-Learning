@@ -1,0 +1,30 @@
+//Hamdan Bagus Firmansyah-Implementasi Sistem Penentuan Kesegaran Daging Sapi Lokal Berdasarkan Warna dan Kadar Amonia Dengan Metode Jaringan Saraf Tiruan Berbasis Embedded System
+
+RED	GREEN	BLUE	NH3	KELAS
+127	73	69	17	1
+153	72	74	15	1
+180	85	84	16	1
+167	89	87	12	1
+171	85	84	11	1
+197	97	96	12	1
+193	102	99	8	1
+189	106	102	5	1
+197	97	102	4	1
+136	80	84	8	2
+145	93	93	4	2
+145	85	84	3	2
+140	89	90	2	2
+140	85	84	3	2
+131	80	80	2	2
+114	72	74	1	2
+126	80	80	2	2
+114	72	71	2	2
+41	23	31	1	3
+56	33	46	1	3
+68	55	70	2	3
+56	30	39	1	3
+70	52	66	1	3
+62	50	61	1	3
+79	55	68	1	3
+49	39	48	1	3
+60	51	69	2	3

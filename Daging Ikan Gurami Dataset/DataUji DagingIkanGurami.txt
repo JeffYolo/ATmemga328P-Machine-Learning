@@ -1,0 +1,24 @@
+//M. Fiqhi Hidayatulah-Sistem Klasifikasi Kesegaran Daging Ikan Gurami berdasarkan Warna dan Gas Amonia menggunakan K-Nearest Neighbor (KNN) berbasis Arduino
+
+RED	GREEN	BLUE	PPM	KELAS
+213	230	184	0	1
+162	179	123	0	1
+153	170	123	0	1
+170	187	133	1	1
+145	204	153	0	1
+85	111	51	2	1
+111	136	82	3	1
+102	119	62	3	1
+111	145	82	20	1
+102	135	62	23	2
+128	153	92	25	2
+68	85	21	26	2
+51	68	72	28	2
+85	119	51	30	2
+68	94	21	30	2
+128	162	92	36	2
+68	94	21	38	2
+51	68	11	50	2
+51	60	0	54	3
+60	68	0	78	3
+
